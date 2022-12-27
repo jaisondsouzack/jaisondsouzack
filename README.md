@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jaisondsouzack
 - 👀 I’m interested in grasping knowledge on codes and technology
 - 🌱 I’m always learning something new and interesting.
-- 💞️ Working as a Software engineer with asp.net, c#, sql and SSRS as base technologies
+- 💞️ Worked as a Software engineer with asp.net, c# and SQL.
+- 🌱 Hosting Support at Web Hosting. 
+- _> Currently learning Devops and CLoud Technologies. 
 - 📫 You can reach me at dsouzajaison370@gmail.com
 
 <!---
