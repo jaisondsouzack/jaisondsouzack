@@ -4,7 +4,7 @@
 - 💞️ Worked as a Software engineer with asp.net, c# and SQL.
 - 🌱 Hosting Support at Web Hosting. 
 - _> Currently learning Devops and CLoud Technologies. 
-- 📫 You can reach me at dsouzajaison370@gmail.com
+- 📫 You can reach me at jaisondsouzackdxb@gmail.com
 
 <!---
 jaisondsouzack/jaisondsouzack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
